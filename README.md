@@ -3,8 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgois01/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-gois-b157781a1/)
 
-![João Paulo Gois GitHub stats](https://github-readme-stats.vercel.app/api?username=jpgois10&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgois10&layout=compact&theme=dracula)](https://github.com/jpgois10/github-readme-stats)
+![João Paulo Gois GitHub stats](https://github-readme-stats.vercel.app/api?username=jpgois10&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgois10&layout=compact&theme=dark)](https://github.com/jpgois10/github-readme-stats)
 
 ## 💻Tecnologias que estudo no momento
 <div style="display: inline_block"><br/>
