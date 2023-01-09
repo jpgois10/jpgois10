@@ -15,3 +15,4 @@
 </div><br/>
 
 Buscando a realização de um sonho que é atuar no mercado de trabalho como Programador.
+No momento estou me aprofudando em Javascript e iniciando os estudo em Node.js e MySQL.
