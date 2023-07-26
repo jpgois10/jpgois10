@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Paulo Gois 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgois01/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jo%C3%A3o-paulo-barbosa-gois-b157781a1/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-barbosa-gois-b157781a1/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jpbgois10@gmail.com)
 
 ![João Paulo Gois GitHub stats](https://github-readme-stats.vercel.app/api?username=jpgois10&show_icons=true&theme=dracula)
