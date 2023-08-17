@@ -1,7 +1,6 @@
 # Seja bem-vindo(a) 👋
 Me chamo João Paulo Gois e sou Desenvolvedor de Sistemas desde 2022 onde iniciei minha transisão de carreira, sou técnico em Desenvolvimento de Sistemas pelo [SENAI](https://www.senaibahia.com.br/) e
 estou cursando Análise e Desenvolvimento de Sistemas na [UNINTER](https://www.uninter.com/) além do curso Desenvolvimento Back-End na [Cubos Academy](https://cubos.academy/).
-No momento 
 
 ## :man_technologist:Para me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgois01/)
@@ -22,6 +21,5 @@ No momento
   <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
 </div><br/>
 
