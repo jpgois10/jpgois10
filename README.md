@@ -1,6 +1,6 @@
 # Seja bem-vindo(a) 👋
 Me chamo João Paulo Gois e sou Desenvolvedor de Sistemas desde 2022 onde iniciei minha transisão de carreira, sou técnico em Desenvolvimento de Sistemas pelo [SENAI](https://www.senaibahia.com.br/) e
-estou cursando Análise e Desenvolvimento de Sistemas na [UNINTER](https://www.uninter.com/) além do curso Desenvolvimento Back-End na [Cubos Academy](https://cubos.academy/).
+estou cursando Engenharia de Software na [UNINTER](https://www.uninter.com/) além do cursos na área de Desenvolvimento de Software.
 
 ## :man_technologist:Para me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgois01/)
