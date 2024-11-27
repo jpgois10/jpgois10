@@ -2,6 +2,9 @@
 Me chamo João Paulo Gois e sou Desenvolvedor de Sistemas desde 2022 onde iniciei minha transisão de carreira, sou técnico em Desenvolvimento de Sistemas pelo [SENAI](https://www.senaibahia.com.br/) e
 estou cursando Engenharia de Software na [UNINTER](https://www.uninter.com/) além de cursos na área de Desenvolvimento de Software.
 
+📚 Atualmente estudando: Java
+📖 Atualmente lendo: Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos (Aditya Y. Bhargava)
+
 ## :man_technologist:Para me encontrar
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jpgois01/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jp-gois/)
