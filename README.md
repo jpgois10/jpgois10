@@ -1,6 +1,7 @@
 # Seja bem-vindo(a) 👋
-Me chamo João Paulo Gois e sou Desenvolvedor de Sistemas desde 2022 onde iniciei minha transisão de carreira, sou técnico em Desenvolvimento de Sistemas pelo [SENAI](https://www.senaibahia.com.br/) e
+Me chamo João e sou Desenvolvedor de Sistemas desde 2022 onde iniciei minha transisão de carreira, sou técnico em Desenvolvimento de Sistemas pelo [SENAI](https://www.senaibahia.com.br/) e
 estou cursando Engenharia de Software na [UNINTER](https://www.uninter.com/) além de cursos na área de Desenvolvimento de Software.
+Sou estagiário na Compass Uol atuando como FullSatck: Java | Spring | Typescript | React.
 
 📚 Atualmente estudando: Java
 📖 Atualmente lendo: Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos (Aditya Y. Bhargava)
