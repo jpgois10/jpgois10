@@ -3,7 +3,7 @@ Me chamo João e sou Desenvolvedor de Sistemas desde 2022 onde iniciei minha tra
 estou cursando Engenharia de Software na [UNINTER](https://www.uninter.com/) além de cursos na área de Desenvolvimento de Software.
 Sou estagiário na Compass Uol atuando como FullSatck: Java | Spring | Typescript | React.
 
-📚 Atualmente estudando: Java
+📚 Atualmente estudando: Java<br/>
 📖 Atualmente lendo: Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos (Aditya Y. Bhargava)
 
 ## :man_technologist:Para me encontrar
